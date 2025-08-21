@@ -1,6 +1,6 @@
 # Front-End Project
 
-Welcome to the **Front-End Project** repository! This project is designed to showcase and develop front-end web development skills using modern technologies.
+Welcome to the **Front-End Project** repository! This project is designed to develop a Todo App for Noor0 Coding Test, and showcase front-end web development skills using NextJS.
 
 ## 🚀 Getting Started
 
@@ -69,10 +69,3 @@ You can view the project in your browser at [http://localhost:3000](http://local
 - **ESLint**
 - **PostCSS**
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 💬 Feedback & Contributions
-
-Contributions are welcome! Fork the repo, make changes, and submit a pull request.
