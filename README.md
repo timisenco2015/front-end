@@ -34,7 +34,7 @@ NEXT_PUBLIC_API_URL=http://localhost:4000/api/v1
 
 Note: Change localhost and the port to match the host and environment where this app will be running."**
 
-3. **Run the development server:**
+4. **Run the development server:**
 
 Using npm:
 
